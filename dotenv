@@ -1,0 +1,13 @@
+# AI Keys
+API_KEY=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
+
+# Database (if you store user sessions or logs)
+DB_HOST=localhost
+DB_PORT=5432
+DB_USER=neurosync
+DB_PASSWORD=supersecret
+DB_NAME=neurosync_db
+
+# Server settings
+PORT=8000
+DEBUG=true

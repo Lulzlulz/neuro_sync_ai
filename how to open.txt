@@ -1,0 +1,37 @@
+python -m streamlit run NeuroSync_Demo_Scaffold.py
+
+
+python -m streamlit run app.py
+
+
+
+
+
+
+Queries: Severe throbbing unilateral headache with nausea and photophobia for 4 hours
+
+“Fever, cough, sore throat, and runny nose for 2 days
+
+Fatigue, body aches, and mild fever since yesterday.
+
+“Numbness and tingling in the left arm and face for 1 hour
+
+Worst headache of my life with neck stiffness
+
+Child with fever, sore throat, and difficulty swallowing
+
+
+
+Study mode:
+
+“Neurology Basics”
+
+“Migraine Pathophysiology”
+
+“Stroke Red Flags”
+
+“Infectious Diseases Intro”
+
+“Clinical Decision Making”
+
+“Acute Emergency Signs”
